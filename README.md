@@ -1,1 +1,1 @@
-# High-School-Survival-Guide
+# GWC_Final_Project
